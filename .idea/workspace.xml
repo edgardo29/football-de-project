@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a75e807-0b6b-45f9-8b43-1d5c56775206" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dags/football_data_ingestion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_db_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dags/feature_engineering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dags/run_data_ingestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dags/simple_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dags/test_pandas_sqlalchemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/football-de-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/football-de-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/dags/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/football_data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/dags/football_data_ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_db_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_db_connection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +36,17 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/Edgardo/Desktop/football-de-project&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dags" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

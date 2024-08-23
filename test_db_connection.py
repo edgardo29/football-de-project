@@ -1,7 +1,7 @@
 # test_db_connection.py
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from config import DATABASE_URL
+from dags.config import DATABASE_URL
 
 # Create an engine instance
 engine = create_engine(DATABASE_URL)
